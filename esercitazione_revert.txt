@@ -1,4 +1,2 @@
 aaaaaa
 ma tu
-
-aaaaaaa <---commento che non va bene, il nostro lavoro è rovinato dobbiamo cancellare il commit 
