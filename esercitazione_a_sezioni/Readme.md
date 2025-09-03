@@ -1,7 +1,3 @@
 Nome:Alessio
-<<<<<<< HEAD
-Nome: Elisaaaaa
-=======
-Nome: Elisa
->>>>>>> origin/develop
+Nome: ElisaMaTu
 Nome:Nabbo-Richi
